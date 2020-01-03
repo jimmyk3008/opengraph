@@ -22,6 +22,8 @@ class Property
     const IMAGE_USER_GENERATED = "og:image:user_generated";
     const LOCALE = "og:locale";
     const LOCALE_ALTERNATE = "og:locale:alternate";
+    const PRICE_AMOUNT = 'og:price:amount';
+    const PRICE_CURRENCY = 'og:price:currency';
     const RICH_ATTACHMENT = "og:rich_attachment";
     const SEE_ALSO = "og:see_also";
     const SITE_NAME = "og:site_name";
